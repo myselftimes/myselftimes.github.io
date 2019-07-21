@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: 麦穗时间
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "jekyll", "reading"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/China
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,27 +33,27 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: 麦穗时间
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "晴子的博客"
+  bio: "愿化作火炭上一滴麦芽糖，在翻腾不休的时间里，滋滋地响"
+  email:qingli1025@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter:
+  facebook:
   google:
-    plus: #username
+    plus: 
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
+  github: lexielee
+  gitlab:
+  stackoverflow:   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: 
+  skype: 
+  xing: 
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -63,7 +63,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: 晴子的麦穗时间
   flickr: #username
   500px: #username
   codepen: #username
