@@ -7,15 +7,13 @@ categories: [读书笔记]
 tags: [文学]
 comments: true
 share: true
-image: https://upload-images.jianshu.io/upload_images/7259374-ea978fbb9136020a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+image: 
   feature:
   credit:
   creditlink:
 ---
 
 汪曾祺先生笔下的草木，是有情感的。不像我学专业课时，反反复复地只会去记植物的科属种，看一株植物就立刻盯着它的识别特征不放，全然把美感抛之脑后。先生笔下的草木，才是真正的人间草木。
-
-![](https://upload-images.jianshu.io/upload_images/7259374-ea978fbb9136020a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 草木如梦
 
