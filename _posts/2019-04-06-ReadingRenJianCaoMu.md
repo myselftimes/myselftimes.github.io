@@ -3,7 +3,7 @@ layout: post
 title: "《人间草木》:汪曾祺眼中的人间与草木"
 excerpt: "汪曾祺先生笔下的草木，是有情感的。不像我学专业课时，反反复复地只会去记植物的科属种，看一株植物就立刻盯着它的识别特征不放，全然把美感抛之脑后。先生笔下的草木，才是真正的人间草木。"
 modified: 2019-04-06
-categories: [读书笔记]
+categories: [读书思考]
 tags: [文学]
 comments: true
 share: true

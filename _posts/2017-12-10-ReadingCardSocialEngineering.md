@@ -3,7 +3,7 @@ layout: post
 title: "读书卡片 | 被误解的「社会工程」"
 excerpt: "真正的社会工程不仅是以为自己在扮演角色，而且是在那个时刻，你就是那个人，你就是那个角色，你的生活就是那样的。——克里斯·尼克森"
 modified: 2017-12-10
-categories: [读书笔记]
+categories: [读书思考]
 tags: [信息安全]
 comments: true
 share: true

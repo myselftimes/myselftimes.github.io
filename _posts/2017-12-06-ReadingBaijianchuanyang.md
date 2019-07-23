@@ -3,7 +3,7 @@ layout: post
 title: "投资学习第一课，小小复盘"
 excerpt: "交易也是如此，静静地长线安全获利，虽然不如短炒赚快钱来得热血沸腾，但却胜在淡定、安然、久远。"
 modified: 2017-12-06
-categories: [读书笔记]
+categories: [读书思考]
 tags: [投资理财]
 comments: true
 share: true

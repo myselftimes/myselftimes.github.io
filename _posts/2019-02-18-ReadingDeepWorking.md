@@ -3,7 +3,7 @@ layout: post
 title: "《深度工作》：智能时代脱颖而出？你需要学会 Deep working"
 excerpt: "纽波特无法告诉我们如何成为第三种人，但做到前两种人是有章可循的——深度工作的能力，迅速掌握复杂工具的能力，以及工作质量和速度都达到精英层次的能力。或许，我们都该学会，在复杂喧嚣的噪声中，去沉浸，去专注。"
 modified: 2019-02-18
-categories: [读书笔记]
+categories: [读书思考]
 tags: [思维]
 comments: true
 share: true

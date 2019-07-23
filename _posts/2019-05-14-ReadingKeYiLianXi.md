@@ -3,7 +3,7 @@ layout: post
 title: "《刻意练习》:为什么坚持如此困难？"
 excerpt: "如果你不再相信自己可以实现某个目标，千万不要半途而废。和你自己达成一个协议，你将尽自己的努力回归到之前的状态或者跨越停滞阶段，然后你再放弃。到那个时候，也许你不会放弃了。"
 modified: 2019-05-14
-categories: [读书笔记]
+categories: [读书思考]
 tags: [思维]
 comments: true
 share: true

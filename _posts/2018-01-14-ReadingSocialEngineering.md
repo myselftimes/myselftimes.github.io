@@ -3,7 +3,7 @@ layout: post
 title: "社会工程：我不是教你诈，只是教你认清人性"
 excerpt: "真正的社会工程不仅是以为自己在扮演角色，而且是在那个时刻，你就是那个人，你就是那个角色，你的生活就是那样的。——克里斯·尼克森"
 modified: 2018-01-14
-categories: [读书笔记]
+categories: [读书思考]
 tags: [信息安全]
 comments: true
 share: true
