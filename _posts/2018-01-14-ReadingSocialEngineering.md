@@ -39,4 +39,8 @@ share: true
 
 ---
 
-> 公众号/简书：麦穗时间（myselftimes）
+> 公众号：麦穗时间（myselftimes）
+> 
+> 读书这件小事儿，希望你和我一起坚持❤️Deep Reading, Deep Thinking!
+> 
+> 愿化作火炭上一滴麦芽糖，在翻腾不休的时间里，“滋滋”地响
