@@ -7,7 +7,7 @@ title: 麦穗时间
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll", "reading"]
+keywords: ["blog", "reading", "job"]
 
 #
 ###################################
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "晴子的博客"
   bio: "愿化作火炭上一滴麦芽糖，在翻腾不休的时间里，滋滋地响"
-  email:
+  email: qingli1025@gmail.com
   disqus-shortname:
   twitter:
   facebook:
@@ -49,9 +49,10 @@ owner:
     ad-slot:
   bing-verify:
   github: lexielee
+  linkedin: in/晴-李-b92b66bb
+  douban: 晴子的麦穗时间
   gitlab:
-  stackoverflow:   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: 
+  stackoverflow:  
   skype: 
   xing: 
   instagram: #username
@@ -63,7 +64,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: 晴子的麦穗时间
+  weibo: 
   flickr: #username
   500px: #username
   codepen: #username
