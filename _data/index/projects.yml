@@ -21,4 +21,4 @@
 - name: 数据可视化-通过Tableau讲故事
   descr: "分析泰坦尼克号乘客及船员的数据，使用Tableau创建数据可视化，展现幸存者和遇难者的人口统计资料或乘客信息"
   image: pong.png
-  Tableau: https://public.tableau.com/profile/qingzi#!/vizhome/titanic-data-v2/titanic?publish=yes
+  github: https://public.tableau.com/profile/qingzi#!/vizhome/titanic-data-v2/titanic?publish=yes
