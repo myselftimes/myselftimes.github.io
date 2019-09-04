@@ -1,8 +1,12 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: 北京林业大学 (硕士 园林植物与观赏园艺)
+  link: http://www.bjfu.edu.cn/ydsy/
+  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br> (expected graduation in 2020)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: 北京林业大学 (本科 园艺)
+  link: http://www.bjfu.edu.cn/ydsy/
+  date: 2013 - 2017
+  
+- name: 北京林业大学 (辅修专业 计算机艺术设计)
+  link: http://www.bjfu.edu.cn/ydsy/
+  date: 2014 - 2016

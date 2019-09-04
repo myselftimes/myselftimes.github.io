@@ -1,4 +1,24 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: 信息分析：抖音为何会火？短视频背后的秘密
+  descr:"抖音可以说是今年以来最火爆的应用，是全球最快逼近1.5亿用户的APP；估值甚至逼近母公司今日头条；可以说是风头一时无二。抖音模式的成功收益与哪些内部和外部因素有关？抖音的成功又如何影响着短视频行业的爆发？同行业竞争的赛场是怎样的？本文将为你展现对抖音及短视频行业的最小全局认识。"
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/LexieLee/IA001BP/blob/master/IA001BPShortVideo.md
+  
+- name: 数据分析：使用统计学验证假设
+  descr: "研究经典实验心理学现象斯特鲁普效应，使用统计学验证假设。"
+  image: pong.png
+  github: 
+  
+- name: 数据分析：使用Python清洗数据
+  descr: "收集推特主WeRateDogs的宠物狗评分数据，评估数据质量和整洁度，清洗整理数据并使用Python进行可视化分析"
+  image: pong.png
+  github: 
+  
+- name: 数据分析：使用R分析红酒质量数据
+  descr: "分析红酒哪种化学成分与品酒师星评的相关性最高"
+  image: pong.png
+  github: 
+  
+- name: 数据可视化：通过Tableau讲故事
+  descr: "分析泰坦尼克号乘客及船员的数据，使用Tableau创建数据可视化，展现幸存者和遇难者的人口统计资料或乘客信息"
+  image: pong.png
+  Tableau: https://public.tableau.com/profile/qingzi#!/vizhome/titanic-data-v2/titanic?publish=yes

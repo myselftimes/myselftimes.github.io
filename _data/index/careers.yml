@@ -1,16 +1,12 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: 开智学堂(安人心智集团)
+  link: https://m.openmindclub.com/
+  date: 2017.02 - 2018.12
+  job: 课程助理（运营）
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: 国际大学生企业家联盟（创行）
+  link: http://www.enactuschina.cn
+  date: 2015.06 - 2016.09
+  job: 项目经理
